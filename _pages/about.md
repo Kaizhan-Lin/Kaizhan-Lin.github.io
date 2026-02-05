@@ -19,7 +19,7 @@ redirect_from:
 
 I am a postdoctoral researcher in isogeny-based cryptography. My PhD was in Sun Yat-sen University, under the supervision of Binglong Chen and Chang-An Zhao.
 
-My research interest includes isogeny-based and pairing-based cryptography. This is my google scholar badge <a href='https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=0ekztlQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes isogeny-based and pairing-based cryptography. This is my google scholar badge <a href='https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=0ekztlQAAAAJ'>.
 
 
 # 🔥 News
