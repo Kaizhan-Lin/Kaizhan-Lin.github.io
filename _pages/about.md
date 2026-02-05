@@ -21,8 +21,8 @@ I am a postdoctoral researcher in isogeny-based cryptography. My PhD was in Sun 
 
 My research interest includes isogeny-based and pairing-based cryptography. My google scholar page is available at 
 <a href='https://scholar.google.com/citations?&user=0ekztlQAAAAJ'>
-  <img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/gwbeip/gwbeip.github.io@google-scholar-stats/gs_data_shieldsio.json" 
-       logo="Google%20Scholar" labelColor="f6f6f6" color="9cf" style="flat">
+  <img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/gwbeip/gwbeip.github.io/google-scholar-stats/gs_data_shieldsio.json" 
+       alt="Google Scholar" style="flat">
 </a>
 
 
