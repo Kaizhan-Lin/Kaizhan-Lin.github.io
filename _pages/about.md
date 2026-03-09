@@ -20,9 +20,8 @@ redirect_from:
 I am a postdoctoral researcher in isogeny-based cryptography. My PhD was in Sun Yat-sen University, under the supervision of Binglong Chen and Chang-An Zhao.
 
 My research interest includes isogeny-based and pairing-based cryptography. My google scholar page is available at 
-<a href='https://scholar.google.com/citations?user=0ekztlQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='https://scholar.google.com/citations?user=0ekztlQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat"></a>
 
-<a href='https://scholar.google.com/citations?user=0ekztlQAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=0ekztlQAAAAJ'>
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
