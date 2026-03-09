@@ -41,7 +41,7 @@ Shiping Cai, **Kaizhan Lin**, Chang-An Zhao
 [4. Fast subgroup membership testings for G_1, G_2 and G_T on pairing-friendly curves. ](https://link.springer.com/article/10.1007/s10623-023-01223-7) **DCC**, 2023. 
 Yu Dai, **Kaizhan Lin**, Chang-An Zhao, Zijian Zhou
 
-[3. Faster Public-Key Compression of SIDH With Less Memory. ](https://ieeexplore.ieee.org/abstract/document/10076822) **IEEETC**, 2023.
+[3. Faster Public-Key Compression of SIDH With Less Memory. ](https://ieeexplore.ieee.org/abstract/document/10076822) **IEEE TC**, 2023.
 **Kaizhan Lin**, Jianming Lin, Weize Wang, Chang-An Zhao
 
 [2. Faster Key Generation of Supersingular Isogeny Diffie-Hellman. ](https://globals.ieice.org/en_transactions/fundamentals/10.1587/transfun.2022EAP1026/_p) **IEICE**, 2022.
