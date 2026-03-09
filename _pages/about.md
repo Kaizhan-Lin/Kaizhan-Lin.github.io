@@ -23,7 +23,9 @@ My research interest includes isogeny-based and pairing-based cryptography. My g
 <a href='https://scholar.google.com/citations?user=0ekztlQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat"></a>
 
 # 📝 Publications 
+[SQIsign2D2: New SQIsign2D Variant by Leveraging Power Smooth Isogenies in Dimension One](link.springer.com/chapter/10.1007/978-981-95-5113-2_11)
 
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 # 🎖 Honors and Awards
 
