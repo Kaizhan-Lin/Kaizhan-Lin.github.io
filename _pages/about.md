@@ -23,7 +23,7 @@ My research interest includes isogeny-based and pairing-based cryptography. My g
 <a href='https://scholar.google.com/citations?user=0ekztlQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat"></a>
 
 # 📝 Publications 
-[9. SQIsign2D^2: New SQIsign2D Variant by Leveraging Power Smooth Isogenies in Dimension One](https://link.springer.com/chapter/10.1007/978-981-95-5113-2_11)
+[9. SQIsign2D^2: New SQIsign2D Variant by Leveraging Power Smooth Isogenies in Dimension One](https://link.springer.com/chapter/10.1007/978-981-95-5113-2_11) <span class="italic">Asiacrypt</span>, 2025.
 Zheng Xu, **Kaizhan Lin**, Chang-An Zhao, Yi Ouyang
 
 [8. PIsignHD: A New Structure for the SQIsign Family with Flexible Applicability](https://link.springer.com/chapter/10.1007/978-3-032-10536-3_23)
