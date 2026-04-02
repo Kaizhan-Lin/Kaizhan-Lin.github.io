@@ -23,6 +23,12 @@ My research interest includes isogeny-based and pairing-based cryptography. My g
 <a href='https://scholar.google.com/citations?user=0ekztlQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat"></a>
 
 # 📝 Publications 
+[11. Efficient and Parallel Implementation of Isogeny-based Deterministic Group Actions. ](https://eprint.iacr.org/2026/627) **TCHES**, 2026.
+Weize Wang, Yi-Fu Lai, **Kaizhan Lin**, Yunlei Zhao
+
+[10. PIKE: Faster Isogeny-Based Public Key Encryption with Pairing-Assisted Decryption. ](https://eprint.iacr.org/2026/473) **PKC**, 2026.
+Shiping Cai, Mingjie Chen, Yi-Fu Lai, **Kaizhan Lin**
+
 [9. SQIsign2D^2: New SQIsign2D Variant by Leveraging Power Smooth Isogenies in Dimension One. ](https://link.springer.com/chapter/10.1007/978-981-95-5113-2_11) **ASIACRYPT**, 2025.
 Zheng Xu, **Kaizhan Lin**, Chang-An Zhao, Yi Ouyang
 
