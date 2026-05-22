@@ -26,7 +26,7 @@ My research interest includes isogeny-based and pairing-based cryptography. My g
 [11. Efficient and Parallel Implementation of Isogeny-based Deterministic Group Actions. ](https://eprint.iacr.org/2026/627) **TCHES**, 2026.
 Weize Wang, Yi-Fu Lai, **Kaizhan Lin**, Yunlei Zhao
 
-[10. PIKE: Faster Isogeny-Based Public Key Encryption with Pairing-Assisted Decryption. ](https://eprint.iacr.org/2026/473) **PKC**, 2026.
+[10. PIKE: Faster Isogeny-Based Public Key Encryption with Pairing-Assisted Decryption. ](https://link.springer.com/chapter/10.1007/978-3-032-26737-5_3) **PKC**, 2026.
 Shiping Cai, Mingjie Chen, Yi-Fu Lai, **Kaizhan Lin**
 
 [9. SQIsign2D^2: New SQIsign2D Variant by Leveraging Power Smooth Isogenies in Dimension One. ](https://link.springer.com/chapter/10.1007/978-981-95-5113-2_11) **ASIACRYPT**, 2025.
@@ -35,7 +35,7 @@ Zheng Xu, **Kaizhan Lin**, Chang-An Zhao, Yi Ouyang
 [8. PIsignHD: A New Structure for the SQIsign Family with Flexible Applicability. ](https://link.springer.com/chapter/10.1007/978-3-032-10536-3_23) **SAC**, 2025.
 **Kaizhan Lin**, Weize Wang, Chang-An Zhao, Yunlei Zhao
 
-[7. Pairing Optimizations for Isogeny‐Based Cryptosystems. ](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/2024/9631360) **IET INFORMATION SECURITY**, 2024.
+[7. Pairing Optimizations for Isogeny‐Based Cryptosystems. ](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/2024/9631360) **IET IS**, 2024.
 Shiping Cai, **Kaizhan Lin**, Chang-An Zhao
 
 [6. A Faster Software Implementation of SQIsign. ](https://ieeexplore.ieee.org/abstract/document/10586884) **IEEE TIT**, 2024.
