@@ -23,7 +23,7 @@ My research interest includes isogeny-based and pairing-based cryptography. My g
 <a href='https://scholar.google.com/citations?user=0ekztlQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat"></a>
 
 # 📝 Publications 
-[11. Efficient and Parallel Implementation of Isogeny-based Deterministic Group Actions. ](https://eprint.iacr.org/2026/627) **TCHES**, 2026.
+[11. Efficient and Parallel Implementation of Isogeny-based Deterministic Group Actions. ](https://doi.org/10.46586/tches.v2026.i3.541-565) **TCHES**, 2026.
 Weize Wang, Yi-Fu Lai, **Kaizhan Lin**, Yunlei Zhao
 
 [10. PIKE: Faster Isogeny-Based Public Key Encryption with Pairing-Assisted Decryption. ](https://link.springer.com/chapter/10.1007/978-3-032-26737-5_3) **PKC**, 2026.
