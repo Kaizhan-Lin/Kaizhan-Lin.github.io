@@ -60,5 +60,7 @@ Yu Dai, **Kaizhan Lin**, Chang-An Zhao, Zijian Zhou
 - *2020.09 - 2025.06*, Ph.D. degree in mathematics, School of Mathematics, Sun Yat-sen University. 
 - *2016.08 - 2020.06*, B.S. degree in mathematics, School of Mathematics, Sun Yat-sen University.
 
-# 💬 Invited Talks
+# 💬 Talks
+- *2026.05*, PKC 2026, PIKE: Faster Isogeny-Based Public Key Encryption with Pairing-Assisted Decryption.
 - *2025.09*, Leuven Isogeny Days 6, SQIsign2D2: New SQIsign2D Variant by Leveraging Power Smooth Isogenies in Dimension One.
+- *2025.08*, SAC 2025, PIsignHD: A New Structure for the SQIsign Family with Flexible Applicability.
